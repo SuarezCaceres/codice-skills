@@ -1,0 +1,35 @@
+{
+  "format": "codice-class",
+  "version": 1,
+  "title": "armar un cubo de 4x4",
+  "summary": "trata de armarlo con buenos pasos",
+  "level": "Principiante",
+  "tags": [
+    "cubo"
+  ],
+  "skillIds": [
+    "anthropics/skills/skills/mcp-builder",
+    "anthropics/skills/skills/frontend-design",
+    "anthropics/skills/skills/skill-creator"
+  ],
+  "componentIds": [
+    "alerts",
+    "avatar",
+    "badge",
+    "button-group"
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "kind": "video",
+      "youtubeId": "1lI2uFawCoI",
+      "title": "armado total"
+    },
+    {
+      "id": "v2",
+      "kind": "video",
+      "youtubeId": "Nb58dq1JiGM",
+      "title": "este es una alternativa ya para entrar a la segunda etapa"
+    }
+  ]
+}
