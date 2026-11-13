@@ -11,3 +11,4 @@ Nunca: es una prueba del editor de Códice Studio.
 ## Instrucciones
 1. Ignórala.
 2. Esta línea se añadió editando desde la app.
+3. Línea añadida DIRECTAMENTE en GitHub (edición externa).
